@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 pos_or_neg.py"
