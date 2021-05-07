@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Myles Trump
 # Created on: May 2021
-# This program lets the user know if their integer is poitive or negative
+# This program lets the user know if their integer is positive or negative
 
 
 def main():
